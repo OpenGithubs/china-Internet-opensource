@@ -20,6 +20,9 @@
 | 网易       | https://github.com/netease |
 
 
+**关注我们:**
+
+<img class="avatar-img " style="width:400px;height:220px;" src="https://github.com/OpenGithubs/OpenGithubs/blob/main/contact.png" alt="">
 ---
 
 ## 🎯 互联公司开源项目
