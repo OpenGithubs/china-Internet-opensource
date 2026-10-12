@@ -23,9 +23,6 @@
 **关注我们:**
 
 <img class="avatar-img " style="width:400px;height:220px;" src="https://github.com/OpenGithubs/OpenGithubs/blob/main/contact.png" alt="">
----
-
-## 🎯 互联公司开源项目
 
 ---
 
@@ -178,8 +175,7 @@
 - **Logan**：轻量级移动端日志收集系统，专注于高效日志管理  
   https://github.com/meituan/Logan        5.9k ⭐️
 
-
-
+---
 
 ### 🔍 百度（Baidu）
 
