@@ -17,18 +17,18 @@
 
 ## �📌 快速导航（开源地址总览）
 
-| 公司       | GitHub地址 |
-|------------|------------|
-| 字节跳动   | https://github.com/bytedance |
-| 腾讯       | https://github.com/Tencent<br>https://github.com/AlloyTeam |
-| 阿里巴巴   | https://github.com/alibaba<br>https://github.com/aliyun<br>https://github.com/antvis |
-| 小米       | https://github.com/MiCode |
-| 京东       | https://github.com/jd-opensource |
-| 哔哩哔哩   | https://github.com/bilibili |
-| 滴滴出行   | https://github.com/didi |
-| 美团       | https://github.com/meituan<br>https://github.com/Meituan-Dianping |
-| 百度       | https://github.com/baidu |
-| 网易       | https://github.com/netease |
+| 公司       | GitHub 开源地址 |
+|------------|-----------------|
+| 字节跳动   | [bytedance](https://github.com/bytedance) |
+| 腾讯       | [Tencent](https://github.com/Tencent)<br>[AlloyTeam](https://github.com/AlloyTeam) |
+| 阿里巴巴   | [alibaba](https://github.com/alibaba)<br>[aliyun](https://github.com/aliyun)<br>[antvis](https://github.com/antvis) |
+| 小米       | [MiCode](https://github.com/MiCode) |
+| 京东       | [jd-opensource](https://github.com/jd-opensource) |
+| 哔哩哔哩   | [bilibili](https://github.com/bilibili) |
+| 滴滴出行   | [didi](https://github.com/didi) |
+| 美团       | [meituan](https://github.com/meituan)<br>[Meituan-Dianping](https://github.com/Meituan-Dianping) |
+| 百度       | [baidu](https://github.com/baidu) |
+| 网易       | [netease](https://github.com/netease) |
 
 
 **关注我们:**
